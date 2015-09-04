@@ -1,6 +1,8 @@
 ## Open Hotel Booking
 
-Open source online hotel booking system built with Laravel
+Booking for a hotel can now be done online. With the consistent upgrade on the IT field, businesses should go with it as well. They have to make every step easier for their clients. 
+
+This one is an example of how an online booking for your choosen hotel is done. If you want to go further, you can check it out [here](https://www.psychz.net/dedicated-hosting.html).
 
 ### Setting up
 #### Run migrations
